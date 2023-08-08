@@ -1,2 +1,2 @@
 # qpp_python
-The experimental data is in the 'data' folder.
+The experimental results is in the 'data' folder.
