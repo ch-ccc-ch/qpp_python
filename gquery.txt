@@ -1,0 +1,99 @@
+673	What factors led to the withdrawal of Soviet troops from Afghanistan?	0.21788428723812103
+307	Identify hydroelectric projects proposed or under construction by country and location.  Detailed description of nature, extent, purpose, problems, and consequences is desirable.	0.2113456428050995
+632	What are the major tin mining countries in southeast Asia?	0.20985272526741028
+629	What is the incidence of violent attacks on abortion clinics and the doctors and staff of the clinics by anti-abortionists?	0.19411081075668335
+647	Has the use of windmill technology to generate electricity been economically productive?	0.19173631072044373
+607	What progress is being made in the effort to map and sequence the human genetic code?	0.19158385694026947
+380	Identify documents that discuss medical treatment of obesity.	0.1869066059589386
+384	Identify documents that discuss the building of a space station with the intent of colonizing the moon.	0.1865905374288559
+682	What is being done to teach English to recently admitted adult immigrants?	0.1858423352241516
+375	What is the status of research on hydrogen as a feasible energy source?	0.18544334173202515
+644	Identify documents that discuss exotic species of animals that are imported into the U.S. or U.K.	0.18420766294002533
+614	Find information about the first genetically modified food product to go on the market, Flavr Savr (also Flavor Saver) Tomato developed by Calgene.	0.18097734451293945
+685	How are Oscar winners selected?	0.17901203036308289
+332	This query is looking for investigations that have targeted evaders of U.S. income tax.	0.17721524834632874
+678	Find information on joint/shared custody's impact on children.	0.17586778104305267
+623	Gather any information that mentions ricin, sarin, soman, or anthrax as a toxic chemical used as a weapon.	0.17132553458213806
+303	Identify positive accomplishments of the Hubble telescope since it was launched in 1991.	0.16791297495365143
+687	What businesses and industries form the basis of the economy of Northern Ireland?	0.16625641286373138
+310	Evidence that radio waves from radio towers or car phones affect brain cancer occurrence.	0.16528771817684174
+654	What are the advantages and disadvantages of same-sex schools?	0.1568191647529602
+334	Determine the usefulness and effectiveness of continuing to maintain export controls on encryption software.	0.1468864381313324
+674	Has Greenpeace been prosecuted or its members arrested for any of its actions?	0.14579442143440247
+372	Identify documents that discuss the growth of Native American casino gambling.	0.1395207643508911
+658	Find documents that discuss teenage pregnancy in the United States: the birth rate for teenage mothers, causes and results of teenage pregnancies, and steps taken to reduce the number of teenage pregnancies.	0.13731463253498077
+330	This query is looking for examples of cooperation or friendly ties between Iran and Iraq, or ways in which the two countries could be considered allies.	0.12679190933704376
+618	Find documents that describe the death of Iranian President Ayatollah Khomeini and the ramifications of his death.	0.12342458218336105
+642	What happened to protesters arrested in connection with the Tiananmen Square demonstrations in Beijing in the spring of 1989?	0.11895257979631424
+387	Identify documents that discuss effective and safe ways to permanently handle long-lived radioactive wastes.	0.11744095385074615
+639	What factors contributed to the growth of consumer on-line shopping?	0.1143624559044838
+327	Identify a country or a city where there is evidence of human slavery being practiced in the eighties or nineties.	0.11327420175075531
+345	Health studies primarily in the U.S. have caused reductions in tobacco sales here, but the economic impact has caused U.S. tobacco companies to look overseas for customers. What impact have the health and economic factors had overseas?	0.11016784608364105
+342	The end of the Cold War seems to have intensified economic competition and has started to generate serious friction between nations as attempts are made by diplomatic personnel to acquire sensitive trade and technology information or to obtain information on highly classified industrial projects. Identify instances where attempts have been made by personnel with diplomatic status to obtain information of this nature.	0.11009190231561661
+697	What are working conditions and pay for U.S. air traffic controllers?	0.10971252620220184
+395	Provide examples of successful attempts to attract tourism as a means to improve a local economy.	0.10949357599020004
+304	Compile a list of mammals that are considered to be endangered, identify their habitat and, if possible, specify what threatens them.	0.1061391606926918
+399	Identify documents that discuss the activities or equipment of oceanographic vessels.	0.10491698980331421
+665	How extensive is poverty in sub-Saharan Africa?	0.10367579758167267
+306	How many civilian non-combatants have been killed in the various civil wars in Africa?	0.09820985049009323
+650	Identify individuals or corporations that have been indicted on charges of tax evasion of more than two million dollars in the U.S. or U.K.	0.09690555185079575
+391	Identify documents that discuss the impact of the cost of research and development (R and D) on the price of drugs.	0.09617561101913452
+370	What are the laws dealing with the quality and processing of food, beverages, or drugs?	0.09246382117271423
+350	Is it hazardous to the health of individuals to	0.08882534503936768
+608	Find articles that discuss the pros and cons of taxing U.S. social security benefits.	0.08773141354322433
+688	What bias exists in the media of countries other than the U.S.?	0.08464694768190384
+390	Find documents that discuss issues associated with so-called "orphan drugs", that is, drugs that treat diseases affecting relatively few people.	0.08380240947008133
+670	Why is there such apathy in U.S. elections?	0.08308153599500656
+362	Identify incidents of human smuggling.	0.07786660641431808
+367	What modern instances have there been of old fashioned piracy, the boarding or taking control of boats?	0.0773119330406189
+340	Identify any actions being taken to propel the nations of the world toward a treaty banning the production, transfer and use of land mines.	0.07729937136173248
+355	Identify documents discussing the development and application of spaceborne ocean remote sensing.	0.07586438953876495
+325	Describe a cult by name and identify the cult members' activities in their everyday life.	0.07184959203004837
+354	Identify instances where a journalist has been put at risk (e.g., killed, arrested or taken hostage) in the performance of his work.	0.07127661257982254
+379	Identify documents that discuss mainstreaming children with physical or mental impairments.	0.07043211162090302
+680	Find documents that discuss how the use of Spanish in U.S. schools has improved the lives of Mexican immigrants.	0.06703687459230423
+669	What were the causes for the Islamic Revolution relative to relations with the U.S.?	0.06694993376731873
+622	Identify companies or corporations that have been accused or indicted of price fixing including the product or type of product involved.	0.06653048098087311
+347	The spotted owl episode in America highlighted U.S. efforts to prevent the extinction of wildlife species.  What is not well known is the effort of other countries to prevent the demise of species native to their countries.  What other countries have begun efforts to prevent such declines?	0.06420420855283737
+615	What is the extent of U.S. raw timber exports to Asia, and what effect do these exports have on the U.S. lumber industry?	0.06333581358194351
+651	How is the ethnic make-up of the U.S. population changing?	0.06174774467945099
+605	What are the pros and cons of Great Britain's universal health care system?	0.06138153746724129
+393	Identify documents that discuss mercy killings.	0.06038612872362137
+689	To which countries does the U.S. provide aid to support family planning, and for which countries has the U.S. refused or limited support?	0.05739932507276535
+346	There has long been a call for standards in U.S. education, these calls frequently citing the superiority of foreign school systems.  Are there many countries outside the U.S. which have standards for pre-teen students?  If so, which are those countries and what standards have been set?	0.051537659019231796
+684	What businesses or government entities give medical or other benefits to part-time workers?	0.04931116849184036
+363	What disasters have occurred in tunnels used for transportation?	0.04753362387418747
+620	How has France responded to protests against its nuclear testing in the South Pacific?	0.04619293287396431
+352	What impact has the Chunnel had on the British economy and the life style of the British?	0.038254089653491974
+389	What specific entities have been accused of illegal technology transfer such as: selling their products, formulas, etc. directly or indirectly to foreign entities for other than peaceful purposes?	0.03630780801177025
+315	How many fatal highway accidents are there each year that are not resolved as to cause.	0.036238301545381546
+336	A relevant document would discuss the frequency of vicious black bear attacks worldwide and the possible causes for this savage behavior.	0.033360183238983154
+638	Find documents that discuss freed prisoners who have been wrongfully convicted based on faulty forensic evidence, poor police work, or false testimony.	0.03209441155195236
+386	What methods are currently utilized or anticipated in the teaching of disabled children?	0.03189845010638237
+381	What forms of alternative medicine are being used in the treatment of illnesses or diseases and how successful are they?	0.031115306541323662
+625	Identify documents that provide information on the arrest and/or conviction of the bombers of the World Trade Center (WTC) in February 1993.	0.03021872788667679
+683	Find information on the breakup of Czechoslovakia into the Czech Republic and Slovakia and its social and political impact on the two countries' people.	0.029348231852054596
+319	What research is ongoing for new fuel sources.	0.02907959371805191
+301	Identify organizations that participate in international criminal activity, the activity, and, if possible, collaborating organizations and the countries involved.	0.028343573212623596
+320	Fiber optic link around the globe (Flag) will be the world's longest undersea fiber optic cable. Who's involved and how extensive is the technology on this system.  What problems exist?	0.028122438117861748
+383	Identify drugs used in the treatment of mental illness.	0.025410383939743042
+610	Find claims made by U.S. small businesses regarding the adverse impact on their businesses of raising the minimum wage.	0.02521502412855625
+388	Identify documents that discuss the use of organic fertilizers (composted sludge, ash, vegetable waste, microorganisms, etc.) as soil enhancers.	0.020178629085421562
+359	Are there reliable and consistent predictors of mutual fund performance?	0.016470490023493767
+376	What types of cases were heard by the World Court (International Court of Justice)?	0.015215435065329075
+627	What steps are being taken by the U.S. to help Russia solve the food crisis in Russia?	0.01252062153071165
+398	Identify documents that discuss the European Conventional Arms Cut as it relates to the dismantling of Europe's arsenal.	0.012159500271081924
+344	The availability of E-mail to many people through their job or school affiliation has allowed for many efficiencies in communications but also has provided the opportunity for abuses.  What steps have been taken world-wide by those bearing the cost of E-mail to prevent excesses?	0.012119106948375702
+394	Identify documents that discuss the education of children at home (home schooling).	0.010631184093654156
+356	Identify documents discussing the use of estrogen by postmenopausal women in Britain.	0.010232070460915565
+666	Find documents that discuss the impact Prime Minister Margaret Thatchers' resignation may have on U.S. and U.K. relations.	0.00839381106197834
+343	Identify instances where a civilian policeman has been killed either during performance of his duty or because of other association with this occupation, e.g., killed for the gun, to keep from testifying, etc.	0.007421115413308144
+318	Aside from the United States, which country offers the best living conditions and quality of life for a U.S. retiree?	0.00604395754635334
+378	Identify documents that discuss opposition to the introduction of the euro, the European currency.	0.004895500373095274
+655	How is Attention Deficit Disorder (ADD) diagnosed and treated in young children?	0.00350443203933537
+314	Commercial harvesting of marine vegetation such as algae, seaweed and kelp for food and drug purposes.	0.00271212519146502
+690	Find documents which describe an advantage in hiring potential or increased income for graduates of U.S. colleges.	0.0025337955448776484
+371	What is the extent of health insurance coverage of holistic or other non-traditional medicine/medical treatments (for example, acupuncture)?	0.001997854560613632
+305	Which are the most crashworthy, and least crashworthy, passenger vehicles?	0.0014084918657317758
+309	Evidence that rap music has a negative effect on young people.	0.0009259259677492082
+322	Isolate instances of fraud or embezzlement in the international art trade.	0.0006098047597333789

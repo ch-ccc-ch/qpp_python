@@ -1,0 +1,100 @@
+677	What efforts are being made to stabilize the Leaning Tower of Pisa, and how successful have the efforts been?	0.8910884857177734
+348	Is the fear of open or public places (Agoraphobia) a widespread disorder or relatively unknown?	0.8100000619888306
+312	Document will discuss the science of growing plants in water or some substance other than soil.	0.7741254568099976
+630	Retrieve documents containing information about the symptoms of individuals suffering from 'Gulf War Syndrome' as a result of serving in the Gulf War.	0.7541666626930237
+664	What are the plans for a National Museum of the American Indian?	0.7347443103790283
+679	Find documents that discuss the U.S. debate about the opening of sealed adoption records to adoptees.	0.7345237731933594
+616	What is the history and extent of Volkswagen production in Mexico?	0.7065808176994324
+604	What evidence is there to link tick-borne Lyme disease with arthritis?	0.6920878887176514
+365	What effects have been attributed to El Nino?	0.6871219277381897
+634	How many deaths are attributed to having taken tainted L-tryptophan dietary supplements?	0.686469316482544
+653	Find documents that describe the activities of ETA, the Basque terrorist organization, in Spain.	0.6379801034927368
+662	How can consumers protect against telemarketers?	0.6283571720123291
+645	Find documents that discuss the financial impact of software piracy upon the software-producing industry.	0.6217833757400513
+316	A look at the roots and prevalence of polygamy in the world today.	0.6204920411109924
+635	What are the arguments for and against doctor assisted suicide in the U.S.?	0.599343478679657
+313	Commercial uses of Magnetic Levitation.	0.5933524370193481
+619	What part did Winnie Mandela herself play in the kidnapping, beating and murder scandal in South Africa in December 1988 through January 1989?	0.566650390625
+660	Find information about whale watching off the coast of California.	0.5579084157943726
+661	What are the causes and treatments for melanoma?	0.540412425994873
+326	Any report of a ferry sinking where 100 or more people lost their lives.	0.5400283932685852
+382	Identify documents that discuss the use of hydrogen as a fuel for piston driven automobiles (safe storage a concern) or the use of hydrogen in fuel cells to generate electricity to drive the car.	0.516453742980957
+328	Identify an individual that has been beatified by the Pope.	0.4950507581233978
+302	Is the disease of Poliomyelitis (polio) under control in the world?	0.4935046136379242
+649	How do computers get infected by computer viruses?	0.4909105598926544
+364	Identify documents discussing cases where rabies have been confirmed and what, if anything, is being done about it.	0.4862636625766754
+601	What is the effect of Turkish river control projects on Iraqi water resources?	0.47951817512512207
+317	Have regulations been passed by the FCC banning junk facsimile (fax)?  If so, are they effective?	0.4761806130409241
+612	What has been the outcome for the pro-independence protesters in Tibet who were arrested by Chinese authorities?	0.47543996572494507
+324	Define Argentine and British international relations	0.4639432430267334
+392	What are the applications of robotics in the world today?	0.4573550224304199
+308	What are the advantages and/or disadvantages of tooth implants?	0.45397302508354187
+633	What is the history of the Welsh devolution movement?	0.44839757680892944
+621	What are the arguments for and against Great Britain's approval of women being ordained as Church of England priests?	0.44385525584220886
+694	How do you make a compost pile?	0.4426656663417816
+366	What are the industrial or commercial uses of cyanide or its derivatives?	0.44004392623901367
+659	What standards do cruise ships use for health and safety maintenance?	0.43656641244888306
+368	Identify documents that discuss in vitro fertilization.	0.4353852868080139
+657	Has prayer in U.S. schools been banned completely?	0.43254873156547546
+663	What were the health effects of Vietnam veterans' exposure to Agent Orange?	0.43063849210739136
+681	Where are wind power installations located?	0.42302393913269043
+351	What information is available on petroleum exploration in the South Atlantic near the Falkland Islands?	0.42013871669769287
+397	Identify documents that discuss the reasons for automobile recalls.	0.4078220725059509
+637	What are the pros and cons of adults using human growth hormone (HGH)?	0.3989828824996948
+626	Find reports of human stampedes that have resulted in 20 or more deaths.	0.3885706663131714
+400	What measures are being taken by local South American authorities to preserve the Amazon tropical rain forest?	0.3755945861339569
+373	Identify documents that discuss the concerns of the United States regarding the export of encryption equipment.	0.36436623334884644
+699	What are the pros and cons of term limits?	0.3624214828014374
+686	What are the negative impacts of Argentina's policy of pegging their peso to the U.S. dollar?	0.3417387008666992
+339	What drugs are being used in the treatment of Alzheimer's Disease and how successful are they?	0.34060582518577576
+643	What harm have power dams in the Pacific northwest caused to salmon fisheries?	0.3371279239654541
+636	Find documents that discuss reasons why people may be exempted from serving on a jury.	0.33394256234169006
+606	Find documents that discuss banning leg traps used to capture animals.	0.32900089025497437
+671	Find documents that cite the specific benefits the Salvation Army provides those in need.	0.32393595576286316
+602	Retrieve information regarding the process by which the Czech and Slovak republics of Czechoslovakia established separate sovereign countries.	0.3200591504573822
+693	What has been the effect of the electronic media on the newspaper industry?	0.31569427251815796
+377	Identify documents that discuss the renewed popularity of cigar smoking.	0.3150208592414856
+667	Find documents that discuss the increasing trend toward creation of unmarried-partner households in the U.S.	0.30998164415359497
+338	What adverse effects have people experienced while taking aspirin repeatedly?	0.30799999833106995
+361	Identify documents that discuss clothing sweatshops.	0.30727657675743103
+668	What is the relationship between poverty and disease?	0.3070688843727112
+698	What are literacy rates in African countries?	0.3023378849029541
+641	What was the impact of the Exxon Valdez oil spill on the marine life and wildlife of the area?	0.30107051134109497
+692	Find information on prostate cancer detection and treatment.	0.2998749017715454
+691	What are the objections to the practice of "clear-cutting"?	0.2918809950351715
+333	Determine the reasons why bacteria seems to be winning the war against antibiotics and rendering antibiotics now less effective in treating diseases than they were in the past.	0.2918073236942291
+640	What are the maternity leave policies of various governments?	0.29004719853401184
+335	Identify the problems, and solutions to those problems, which arise in the relationships among biological parents, adoptive parents, and the child or children involved.	0.2878631353378296
+648	Identify documents that discuss details of a family leave law, such as how long, compensation, if any, for what reason allowed, etc.	0.2846485376358032
+675	Find information regarding training for Olympic swim meets.	0.2845025360584259
+396	Identify documents that discuss sick building syndrome or building-related illnesses.	0.2785954475402832
+369	What are the causes and treatments of anorexia nervosa and bulimia?	0.27388375997543335
+385	Identify documents that discuss the current status of hybrid automobile engines, (i.e., cars fueled by something other than gasoline only).	0.27335241436958313
+603	Retrieve documents regarding U.S. lawsuits against the tobacco industry for causing health problems and/or death from cigarettes.	0.2696930766105652
+357	Identify documents discussing international boundary disputes relevant to the 200-mile special economic zones or 12-mile territorial waters subsequent to the passing of the "International Convention on the Law of the Sea".	0.26491740345954895
+337	What research has been done on viral hepatitis and what progress has been made in its treatment?	0.2635515630245209
+341	A relevant document would discuss how effective government orders to better scrutinize passengers and luggage on international flights and to step up screening of all carry-on baggage has been.	0.2628472149372101
+652	What was the OIC's involvement in the Balkans in 1990-94?	0.259453147649765
+311	Document will discuss the theft of trade secrets along with the sources of information:  trade journals, business meetings, data from Patent Offices, trade shows, or analysis of a competitor's products.	0.2585963308811188
+696	Find documents that discuss the safety of or the hazards of cosmetic plastic surgery.	0.2566480040550232
+609	Find documents that discuss per capita consumption of alcohol by political entity country, state, province, etc.	0.25530296564102173
+617	What effect has the reduction of Russian support had on the Cuban economy?	0.251598984003067
+646	Find documents that discuss an increase in the number of people receiving food stamp benefits.	0.24907951056957245
+323	Find instances of plagiarism in the literary and journalistic worlds.	0.24771049618721008
+631	Find documents relating to the election of Nelson Mandela as president of the Republic of South Africa.	0.246744766831398
+628	What justification was used by the U.S. government to invade Panama, and why did some oppose the invasion?	0.24507389962673187
+656	How are young children being protected against lead poisoning from paint and water pipes?	0.24470964074134827
+331	What criticisms have been made of World Bank policies, activities or personnel?	0.24407315254211426
+676	Find information on poppy cultivation and export worldwide.	0.24326710402965546
+695	What is the usual sentence for those convicted of white collar crimes?	0.24296042323112488
+321	Pertinent documents will reflect the fact that women continue to be poorly represented in parliaments across the world, and the gap in political power between the sexes is very wide, particularly in the Third World.	0.24066831171512604
+358	What role does blood-alcohol level play in automobile accident fatalities?	0.23728184401988983
+374	Identify and provide background information on Nobel prize winners.	0.23387375473976135
+624	What are the pros and cons of developing the Strategic Defense Initiative (SDI) also known as "Star Wars"?	0.2303844839334488
+349	Document will discuss the chemical reactions necessary to keep living cells healthy and/or producing energy.	0.22859175503253937
+613	How were pieces of the Berlin wall disposed of after their removal?	0.22857974469661713
+360	What are the benefits, if any, of drug legalization?	0.22496062517166138
+700	What are the arguments for and against an increase in gasoline taxes in the U.S.?	0.21932005882263184
+611	What violent activities have Kurds, or members of the Workers Party of Kurdistan (PKK), carried out in Germany?	0.21916159987449646
+353	Identify systematic explorations and scientific investigations of Antarctica, current or planned.	0.2189772129058838
+329	Mexico City has the worst air pollution in the world.  Pertinent Documents would contain the specific steps Mexican authorities have taken to combat this deplorable situation.	0.21852651238441467
